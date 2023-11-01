@@ -10,7 +10,8 @@ def parse_entry(entry):
     match = re.search(r'\[(.*?)\]', entry)
     # timestamp, cpu_time, energy, sender_id, req_num, temp_val, pressure_val = ""
     if match:
-        if entry[7] == '.':
+        print(entry)
+        if entry[5] == ':':
             timestamp = datetime.strptime(entry[:9], '%H:%M:%S.%f')
             print(timestamp)
         else:
@@ -37,17 +38,19 @@ def generate_graph(entries):
         if parsed_entry:
             timestamp, cpu_time, packet_length, energy, req_num, temp_val, pressure_val, sender_id = parsed_entry
             if sender_id not in data:
-                data[sender_id] = {'timestamps': [], 'cpu_time': [], 'packet_length': [], 'energy': [], 'req_num': [], 'temp_val': [], 'pressure_val': [], 'sender_id': []}
+                data[sender_id] = {'timestamps': [], 'cpu_time': [], 'packet_length': [], 'energy': [], 'req_num': [], 'temp_val': [], 'pressure_val': [], 'sender_id': [], 'freshness': []}
             if parsed_entry[0] != None: data[sender_id]['timestamps'].append(timestamp)
             if parsed_entry[1] != None: data[sender_id]['cpu_time'].append(int((cpu_time).group(1)))
             if parsed_entry[2] != None: data[sender_id]['packet_length'].append(int((packet_length).group(1)))
             if parsed_entry[3] != None: data[sender_id]['energy'].append(int((energy).group(1)))
-            if parsed_entry[4] != None: data[sender_id]['req_num'].append(int((req_num).group(1)))
+            if parsed_entry[4] != None: 
+                data[sender_id]['req_num'].append(int((req_num).group(1)))
+                data[sender_id]['freshness'].append(data[sender_id]['timestamps'][-1].minute - (data[sender_id]['req_num'][-1] % 60)) 
             if parsed_entry[5] != None: data[sender_id]['temp_val'].append(int((temp_val).group(1)))
             if parsed_entry[6] != None: data[sender_id]['pressure_val'].append(int((pressure_val).group(1)))
             if parsed_entry[7] != None: data[sender_id]['sender_id'].append(sender_id)
-
     print(data)
+            
 
 # Exemplo de entradas
 def read_file(filename):

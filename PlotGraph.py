@@ -88,7 +88,7 @@ def read_file(filename):
         lines = [line.strip() for line in lines]  
     return lines
 
-filename = '2h20-64nodesNormalNetwork.txt'
+filename = '1h50-0h50-64nodesFlooding30-10.txt'
 lines = read_file(filename)
 data = []
 for i in range (int(len(lines)/windowSpeed)-windowSize):

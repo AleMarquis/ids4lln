@@ -4,11 +4,14 @@ from statistics import mean, stdev
 from types import NoneType
 import matplotlib.pyplot as plt
 import os.path
+import csv
 
-plt.rcParams['legend.title_fontsize'] = 'xx-small'
+f = open('treino.csv', 'w')
+
+writer = csv.writer(f)
 
 windowSize = 100
-windowSpeed = 20
+windowSpeed = 10
 
 def parse_entry(entry):
     match = re.search(r'\[(.*?)\]', entry)
@@ -54,7 +57,7 @@ def generate_crude_data(entries):
             if parsed_entry[7] != None: data[sender_id]['sender_id'].append(sender_id)
     return data
 
-def generate_data(entries):
+def generate_data(entries, filename):
     data = {'timestamps': [], 'cpu_time': [], 'packet_length': [], 'energy': [], 'req_num': [], 'temp_val': [], 'pressure_val': [], 'sender_id': [], 'freshness': []}
     for entry in entries:
         parsed_entry = parse_entry(entry)
@@ -79,6 +82,16 @@ def generate_data(entries):
             data[item+'_mean'] = mean(data[item])
         if len(data[item]) > 1:
             data[item+'_stdev'] = stdev(data[item])
+    
+    #get_mean_datetime
+    data['mean_time'] = data['timestamps'][0] + ((data['timestamps'][-1] - data['timestamps'][0])/2)
+
+    if (60*data['mean_time'].hour + data['mean_time'].minute > 30) and ("NodesNormal" not in filename): 
+        data['classification'] = 1
+    else: 
+        data['classification'] = 0
+
+    data['number_of_clients'] = len(set(data['sender_id']))
 
     return data
             
@@ -88,12 +101,50 @@ def read_file(filename):
         lines = [line.strip() for line in lines]  
     return lines
 
-filename = '1h50-0h50-64nodesFlooding30-10.txt'
-lines = read_file(filename)
-data = []
-for i in range (int(len(lines)/windowSpeed)-windowSize):
-    lineTemp = lines[windowSpeed*i:(windowSpeed*i)+windowSize]
-    data.append(generate_data(lineTemp))
+wantedValues = ["cpu_time_mean", "cpu_time_stdev", 
+                "packet_length_mean", "packet_length_stdev", 
+                "energy_mean", "energy_stdev", 
+                "req_num_mean", "req_num_stdev", 
+                "freshness_mean", "freshness_stdev", 
+                "temp_val_mean", "temp_val_stdev", 
+                "pressure_val_mean", "pressure_val_stdev",
+                "number_of_clients", "classification"]
+
+
+# writer.writerow(wantedValues)
+
+filelist = ['1h-64NodesFloodingLarge30-10.txt',
+            '1h-64NodesFloodingNormal30-10.txt',
+            '1h-64NodesLenghtAttack30-10.txt',
+            '1h-64NodesNormal10.txt',
+            '1h-64NodesBlackhole30-10.txt',
+            '1h-64NodesBlackhole30-5.txt' 
+]
+
+for file in filelist:
+    lines = read_file(file)
+    data = []
+    for i in range (int(len(lines)/windowSpeed)-windowSize):
+        lineTemp = lines[windowSpeed*i:(windowSpeed*i)+windowSize]
+        data.append(generate_data(lineTemp,file))
+        dataCsv = []
+        for value in wantedValues:
+            dataCsv.append(data[i][value])
+        writer.writerow(dataCsv)
+
+# filename = '1h-64NodesBlackhole30-10.txt'
+
+# lines = read_file(filename)
+# data = []
+# for i in range (int(len(lines)/windowSpeed)-windowSize):
+#     lineTemp = lines[windowSpeed*i:(windowSpeed*i)+windowSize]
+#     data.append(generate_data(lineTemp, filename))
+#     dataCsv = []
+#     for value in wantedValues:
+#         dataCsv.append(data[i][value])
+#     writer.writerow(dataCsv)
+
 data
+
 # g
 # enerate_data(lines)

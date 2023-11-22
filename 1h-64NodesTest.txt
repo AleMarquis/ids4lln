@@ -1,0 +1,1442 @@
+00:59.808	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:23
+00:59.852	ID:1	[INFO: App       ] Received: 'CPU 0(s) / Energy 61063(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+01:12.933	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1c
+01:12.963	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61711(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+01:25.003	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:24
+01:25.013	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61768(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+01:26.407	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:15
+01:26.427	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61773(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+01:35.370	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:22
+01:35.381	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61809(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+01:37.969	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1d
+01:37.980	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61815(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+01:43.831	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:12
+01:43.842	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61833(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+01:48.324	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1b
+01:48.383	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61843(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+01:55.870	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1a
+01:56.058	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61862(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+01:56.419	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:b
+01:56.453	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61864(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+01:58.913	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:23
+01:58.945	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61869(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+02:01.261	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:14
+02:01.320	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61873(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+02:01.818	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:5
+02:01.873	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62390(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+02:07.050	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:13
+02:07.149	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61884(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+02:08.455	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:4
+02:08.508	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62375(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+02:12.836	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:d
+02:12.904	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61893(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+02:13.026	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1c
+02:13.156	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61895(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+02:20.182	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:2
+02:20.320	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61906(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+02:22.273	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:c
+02:22.367	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61909(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+02:24.268	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:24
+02:24.281	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62142(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+02:26.282	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:15
+02:26.295	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61914(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+02:31.526	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:a
+02:31.537	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61921(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+02:36.354	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:22
+02:36.365	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61928(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+02:37.180	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1d
+02:37.191	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61928(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+02:43.542	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:12
+02:43.617	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61936(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+02:45.714	ID:1	[INFO: App       ] Received: 'No: 0 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:3
+02:45.766	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61938(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+02:49.021	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1b
+02:49.063	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61942(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+02:55.557	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:b
+02:55.602	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61949(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+02:56.570	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1a
+02:56.609	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61949(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+02:59.132	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:23
+02:59.195	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61952(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+03:01.454	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:5
+03:01.560	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61954(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+03:01.901	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:14
+03:01.930	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61954(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+03:07.487	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:13
+03:07.531	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61959(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+03:09.107	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:4
+03:09.190	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61961(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+03:12.180	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:d
+03:12.216	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61963(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+03:13.464	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1c
+03:13.570	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62135(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+03:19.800	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:2
+03:19.847	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61969(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+03:21.745	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:c
+03:21.756	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61970(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+03:24.729	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:24
+03:24.740	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62134(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+03:25.774	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:15
+03:25.810	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61973(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+03:30.565	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:a
+03:30.602	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61976(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+03:36.683	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:22
+03:36.716	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61980(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+03:37.414	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1d
+03:37.425	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61981(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+03:43.956	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:12
+03:44.133	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61984(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+03:46.722	ID:1	[INFO: App       ] Received: 'No: 1 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:3
+03:46.805	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61986(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+03:48.378	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1b
+03:48.422	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61987(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+03:56.151	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:b
+03:56.195	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61992(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+03:57.112	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1a
+03:57.123	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61992(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+03:58.659	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:23
+03:58.711	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62131(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+04:00.563	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:5
+04:00.599	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61994(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+04:01.878	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:14
+04:01.914	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62131(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+04:06.709	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:13
+04:06.789	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61997(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+04:08.159	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:4
+04:08.190	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61998(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+04:11.802	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:d
+04:11.857	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 61999(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+04:13.792	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1c
+04:13.813	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62130(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+04:20.136	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:2
+04:20.172	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62003(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+04:20.987	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:c
+04:21.000	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62130(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+04:24.049	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:24
+04:24.078	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62019(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+04:26.477	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:15
+04:26.488	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62005(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+04:29.875	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:a
+04:29.953	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62238(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+04:36.453	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:22
+04:36.539	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62010(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+04:37.008	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1d
+04:37.019	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62010(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+04:43.589	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:12
+04:43.703	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62012(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+04:45.850	ID:1	[INFO: App       ] Received: 'No: 2 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:3
+04:45.906	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62013(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+04:48.026	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1b
+04:48.037	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62014(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+04:55.893	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:b
+04:55.914	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62016(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+04:56.542	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1a
+04:56.555	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62016(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+04:57.823	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:23
+04:57.899	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62128(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+04:59.877	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:5
+04:59.951	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62018(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+05:01.870	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:14
+05:01.906	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62128(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+05:06.224	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:13
+05:06.274	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62020(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+05:07.339	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:4
+05:07.375	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62020(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+05:12.883	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:d
+05:12.927	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62022(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+05:14.404	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1c
+05:14.445	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62127(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+05:19.737	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:2
+05:19.836	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62024(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+05:21.948	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:c
+05:22.016	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62127(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+05:23.776	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:24
+05:23.804	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62229(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+05:25.774	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:15
+05:25.826	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62025(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+05:29.698	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:a
+05:29.781	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62027(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+05:36.680	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1d
+05:36.697	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62127(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+05:36.886	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:22
+05:36.945	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62029(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+05:42.925	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:12
+05:42.936	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62030(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+05:45.136	ID:1	[INFO: App       ] Received: 'No: 3 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:3
+05:45.161	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62211(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+05:47.784	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1b
+05:47.828	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62031(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+05:56.063	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:b
+05:56.109	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62033(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+05:56.187	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1a
+05:56.258	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62126(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+05:56.859	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:23
+05:56.930	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62126(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+05:59.094	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:5
+05:59.146	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62034(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+06:01.920	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:14
+06:02.041	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62126(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+06:06.787	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:13
+06:06.852	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62206(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+06:08.112	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:4
+06:08.195	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62036(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+06:13.649	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:d
+06:13.709	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62037(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+06:14.862	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1c
+06:14.899	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62214(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+06:20.057	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:2
+06:20.148	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62039(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+06:21.401	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:c
+06:21.516	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62125(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+06:23.768	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:24
+06:23.781	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62298(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+06:25.352	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:15
+06:25.365	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62039(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+06:28.683	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:a
+06:28.789	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62040(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+06:35.672	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1d
+06:35.683	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62125(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+06:37.425	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:22
+06:37.469	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62125(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+06:43.175	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:12
+06:43.222	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62043(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+06:45.597	ID:1	[INFO: App       ] Received: 'No: 4 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:3
+06:45.687	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62043(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+06:48.565	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1b
+06:48.576	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62044(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+06:55.823	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1a
+06:55.899	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62125(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+06:57.081	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:23
+06:57.102	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62124(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+06:57.143	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:b
+06:57.187	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62125(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+06:58.263	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:5
+06:58.276	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62045(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+07:02.169	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:14
+07:02.188	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62203(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+07:07.354	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:13
+07:07.365	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62047(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+07:07.412	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:4
+07:07.531	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62193(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+07:12.649	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:d
+07:12.716	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62048(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+07:15.084	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1c
+07:15.117	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62200(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+07:19.448	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:2
+07:19.488	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62049(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+07:21.745	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:c
+07:21.775	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62124(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+07:24.542	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:24
+07:24.570	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62272(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+07:24.833	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:15
+07:24.881	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62124(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+07:28.651	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:a
+07:28.773	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62050(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+07:35.391	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1d
+07:35.411	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62124(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+07:38.315	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:22
+07:38.328	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62124(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+07:43.847	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:12
+07:43.886	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62124(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+07:44.870	ID:1	[INFO: App       ] Received: 'No: 5 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:3
+07:44.922	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62052(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+07:48.222	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1b
+07:48.266	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62124(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+07:55.917	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1a
+07:55.977	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62123(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+07:57.053	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:23
+07:57.063	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62193(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+07:57.372	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:b
+07:57.383	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62123(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+07:58.946	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:5
+07:59.068	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62054(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+08:02.065	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:14
+08:02.117	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62192(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+08:06.870	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:13
+08:06.922	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62183(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+08:08.217	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:4
+08:08.336	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62055(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+08:12.110	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:d
+08:12.120	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62056(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+08:15.698	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1c
+08:15.750	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62189(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+08:18.917	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:2
+08:19.008	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62057(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+08:22.551	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:c
+08:22.570	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62123(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+08:24.219	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:15
+08:24.287	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62123(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+08:24.940	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:24
+08:24.984	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62319(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+08:29.276	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:a
+08:29.383	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62058(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+08:35.204	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1d
+08:35.247	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62123(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+08:39.245	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:22
+08:39.261	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62003(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+08:43.104	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:12
+08:43.115	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62123(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+08:45.225	ID:1	[INFO: App       ] Received: 'No: 6 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:3
+08:45.422	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62060(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+08:47.948	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1b
+08:48.109	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62123(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+08:56.011	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1a
+08:56.024	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+08:56.784	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:23
+08:56.820	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62184(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+08:58.097	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:b
+08:58.109	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+08:59.438	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:5
+08:59.498	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62061(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+09:02.800	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:14
+09:02.867	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62069(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+09:06.342	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:13
+09:06.406	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+09:07.487	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:4
+09:07.547	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62176(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+09:11.282	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:d
+09:11.349	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+09:15.839	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1c
+09:15.850	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62241(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+09:19.636	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:2
+09:19.750	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62063(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+09:23.159	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:c
+09:23.197	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62181(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+09:24.360	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:15
+09:24.435	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+09:25.182	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:24
+09:25.193	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62187(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+09:30.347	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:a
+09:30.359	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+09:36.000	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1d
+09:36.029	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+09:39.565	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:22
+09:39.594	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+09:42.984	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:12
+09:43.039	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+09:45.190	ID:1	[INFO: App       ] Received: 'No: 7 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:3
+09:45.234	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62172(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+09:48.237	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1b
+09:48.254	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+09:55.808	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1a
+09:55.871	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+09:57.511	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:23
+09:57.527	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62073(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+09:58.364	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:b
+09:58.406	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+09:58.841	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:5
+09:58.876	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62171(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+10:02.438	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:14
+10:02.469	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62231(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+10:06.292	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:13
+10:06.336	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+10:08.011	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:4
+10:08.119	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62067(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+10:11.688	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:d
+10:11.698	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+10:16.599	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1c
+10:16.609	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62228(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+10:19.550	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:2
+10:19.703	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62068(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+10:23.347	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:c
+10:23.383	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62174(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+10:24.008	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:15
+10:24.052	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+10:24.839	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:24
+10:24.849	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62333(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+10:31.245	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:a
+10:31.367	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+10:36.516	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1d
+10:36.552	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+10:39.105	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:22
+10:39.125	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+10:41.987	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:12
+10:42.050	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+10:44.529	ID:1	[INFO: App       ] Received: 'No: 8 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:3
+10:44.565	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62070(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+10:48.058	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1b
+10:48.086	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+10:56.058	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:1a
+10:56.133	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+10:57.339	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+10:57.359	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62222(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+10:59.104	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:b
+10:59.141	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+10:59.688	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:5
+10:59.818	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62071(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+11:02.933	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:14
+11:02.984	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62221(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+11:06.222	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:13
+11:06.247	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+11:08.886	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:4
+11:08.906	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+11:12.211	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:d
+11:12.224	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+11:17.020	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+11:17.039	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62267(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+11:19.104	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:2
+11:19.133	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62072(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+11:23.568	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:c
+11:23.602	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62169(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+11:23.970	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+11:24.013	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+11:25.393	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+11:25.406	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62307(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+11:32.011	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:a
+11:32.039	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+11:35.821	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+11:35.833	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62079(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+11:39.511	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+11:39.547	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+11:42.534	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+11:42.597	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+11:45.108	ID:1	[INFO: App       ] Received: 'No: 9 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 53 | from: fd00::c30c:0:0:3
+11:45.219	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62209(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+11:47.534	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+11:47.545	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62209(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+11:55.917	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+11:55.930	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62080(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+11:57.503	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+11:57.527	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62126(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+11:58.550	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+11:58.609	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+11:58.899	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+11:58.910	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62161(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+12:02.745	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+12:02.852	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62126(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+12:06.667	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+12:06.695	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+12:08.464	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+12:08.523	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+12:12.696	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+12:12.784	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+12:18.011	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+12:18.022	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62255(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+12:18.050	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+12:18.242	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62076(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+12:23.513	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+12:23.591	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+12:24.274	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+12:24.320	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62165(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+12:24.503	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+12:24.523	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62336(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+12:32.144	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+12:32.172	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+12:36.422	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+12:36.433	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62164(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+12:38.909	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+12:38.953	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62164(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+12:42.214	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+12:42.266	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+12:45.737	ID:1	[INFO: App       ] Received: 'No: 10 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+12:45.817	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+12:48.237	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+12:48.305	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+12:55.972	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+12:56.024	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62083(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+12:58.050	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+12:58.061	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62205(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+12:58.128	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+12:58.195	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+12:58.227	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+12:58.302	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62078(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+13:02.378	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+13:02.432	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62204(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+13:05.636	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+13:05.688	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+13:07.964	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+13:08.047	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+13:12.024	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+13:12.135	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+13:17.412	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+13:17.453	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62166(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+13:17.985	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+13:18.043	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62079(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+13:23.349	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+13:23.388	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62161(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+13:25.120	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+13:25.131	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62319(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+13:25.253	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+13:25.289	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62202(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+13:32.253	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+13:32.281	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+13:36.251	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+13:36.294	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62160(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+13:38.948	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+13:38.961	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62160(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+13:41.956	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+13:41.984	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62160(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+13:45.847	ID:1	[INFO: App       ] Received: 'No: 11 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+13:45.945	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+13:48.433	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+13:48.443	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+13:56.331	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+13:56.391	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62159(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+13:57.618	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+13:57.698	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62080(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+13:58.073	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+13:58.141	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62159(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+13:58.823	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+13:58.859	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62124(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+14:02.370	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+14:02.399	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62237(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+14:05.573	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+14:05.688	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+14:08.519	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+14:08.570	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62193(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+14:12.344	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+14:12.404	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+14:17.089	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+14:17.133	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62274(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+14:17.425	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+14:17.437	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62081(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+14:23.360	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+14:23.371	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62158(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+14:24.925	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+14:24.935	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62343(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+14:25.264	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+14:25.286	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62196(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+14:32.976	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+14:33.117	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+14:36.539	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+14:36.568	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62157(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+14:39.206	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+14:39.242	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62087(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+14:41.433	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+14:41.574	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62157(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+14:46.026	ID:1	[INFO: App       ] Received: 'No: 12 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+14:46.125	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+14:48.245	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+14:48.258	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+14:55.891	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+14:55.961	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62156(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+14:57.305	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+14:57.373	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62083(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+14:57.998	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+14:58.047	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62230(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+14:58.495	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+14:58.602	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62156(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+15:02.714	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+15:02.727	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62160(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+15:05.730	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+15:05.774	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+15:08.987	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+15:09.141	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+15:12.672	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+15:12.716	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+15:16.714	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+15:16.727	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62196(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+15:16.800	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+15:16.898	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62084(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+15:24.138	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+15:24.209	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62088(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+15:25.511	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+15:25.554	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62328(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+15:26.008	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+15:26.049	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62124(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+15:32.417	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+15:32.484	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+15:37.500	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+15:37.544	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62155(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+15:40.081	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+15:40.102	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62155(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+15:41.511	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+15:41.570	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62154(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+15:46.104	ID:1	[INFO: App       ] Received: 'No: 13 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+15:46.190	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+15:48.745	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+15:48.781	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+15:55.683	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+15:55.719	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62154(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+15:56.680	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+15:56.755	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62085(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+15:57.777	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+15:57.797	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62158(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+15:58.487	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+15:58.711	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62154(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+16:03.519	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+16:03.586	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62222(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+16:05.897	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+16:05.914	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62184(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+16:09.513	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+16:09.539	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+16:12.188	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+16:12.216	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+16:17.128	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+16:17.167	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+16:17.178	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62254(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+16:17.211	ID:1	[INFO: App       ] Received: 'CPU 1(s) / Energy 62085(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+16:24.638	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+16:24.685	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62153(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+16:25.128	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+16:25.143	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62186(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+16:26.471	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+16:26.515	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62349(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+16:32.222	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+16:32.266	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+16:38.188	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+16:38.224	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62185(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+16:40.402	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+16:40.511	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62090(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+16:41.831	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+16:41.906	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62152(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+16:46.948	ID:1	[INFO: App       ] Received: 'No: 14 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+16:46.961	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+16:49.191	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+16:49.203	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62152(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+16:55.675	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+16:55.719	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62184(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+16:56.805	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+16:56.818	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+16:58.542	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+16:58.586	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62155(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+16:58.854	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+16:58.940	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62151(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+17:03.261	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+17:03.328	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62248(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+17:05.128	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+17:05.219	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62151(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+17:09.362	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+17:09.391	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+17:12.922	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+17:12.990	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+17:16.206	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+17:16.250	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+17:17.495	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+17:17.539	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62218(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+17:24.126	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+17:24.138	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62091(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+17:26.104	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+17:26.125	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62123(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+17:26.941	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+17:26.976	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62335(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:24
+17:31.472	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+17:31.602	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62150(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+17:38.923	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+17:38.933	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62123(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+17:39.745	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+17:39.828	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62150(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+17:42.620	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+17:42.633	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62092(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+17:46.886	ID:1	[INFO: App       ] Received: 'No: 15 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+17:47.008	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+17:49.503	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+17:49.514	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62150(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+17:54.956	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+17:54.977	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+17:56.977	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+17:57.037	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+17:57.698	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+17:57.797	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62153(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+17:59.222	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+17:59.234	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62149(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+18:03.894	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+18:03.953	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62183(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+18:04.792	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+18:04.930	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62149(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+18:09.479	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+18:09.508	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+18:12.727	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+18:12.787	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62149(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+18:17.210	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+18:17.221	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+18:18.026	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+18:18.049	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62269(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+18:23.587	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+18:23.607	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62149(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+18:26.464	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+18:26.500	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62208(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+18:26.683	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+18:26.695	ID:1	[INFO: App       ] Received: 'CPU 10(s) / Energy 62353(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+18:31.644	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+18:31.664	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62148(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+18:38.980	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+18:39.039	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62178(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+18:39.462	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+18:39.482	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62178(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+18:43.480	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+18:43.555	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62148(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+18:46.871	ID:1	[INFO: App       ] Received: 'No: 16 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+18:46.961	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+18:48.813	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+18:48.906	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62148(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+18:55.198	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+18:55.289	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62122(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+18:57.821	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+18:57.841	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+18:58.097	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+18:58.149	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62235(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+18:58.995	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+18:59.016	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62148(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+19:03.097	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+19:03.195	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62180(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+19:04.972	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+19:05.065	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62147(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+19:10.464	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+19:10.477	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+19:13.102	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+19:13.113	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62093(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+19:17.256	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+19:17.289	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62261(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+19:17.769	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+19:17.836	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+19:23.055	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+19:23.099	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62147(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+19:26.535	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+19:26.562	ID:1	[INFO: App       ] Received: 'CPU 10(s) / Energy 62287(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+19:26.714	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+19:26.750	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62203(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+19:32.120	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+19:32.156	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62147(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+19:38.047	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+19:38.121	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62175(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+19:40.258	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+19:40.302	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62174(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+19:42.617	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+19:42.719	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62094(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+19:46.097	ID:1	[INFO: App       ] Received: 'No: 17 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+19:46.227	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+19:48.441	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+19:48.508	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62146(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+19:54.589	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+19:54.703	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62174(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+19:56.852	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+19:56.896	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+19:57.823	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+19:57.883	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62225(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+19:59.300	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+19:59.322	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62174(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+20:03.339	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+20:03.367	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62256(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+20:04.073	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+20:04.260	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62146(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+20:09.644	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+20:09.758	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+20:12.352	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+20:12.427	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62146(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+20:16.817	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+20:16.836	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62230(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+20:18.672	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+20:18.723	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+20:23.696	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+20:23.707	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62172(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+20:27.535	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+20:27.578	ID:1	[INFO: App       ] Received: 'CPU 11(s) / Energy 62306(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+20:27.669	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+20:27.711	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62199(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+20:32.565	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+20:32.656	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62145(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+20:39.050	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+20:39.102	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62172(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+20:40.993	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+20:41.021	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+20:42.573	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+20:42.641	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+20:46.058	ID:1	[INFO: App       ] Received: 'No: 18 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+20:46.094	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+20:48.362	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+20:48.373	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62145(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+20:54.105	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+20:54.203	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+20:56.899	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+20:57.037	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+20:57.894	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+20:57.914	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62219(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+20:59.011	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+20:59.055	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62171(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+21:03.394	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+21:03.414	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62249(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+21:03.595	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+21:03.609	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62145(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+21:09.677	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+21:09.687	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+21:12.516	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+21:12.654	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62144(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+21:16.956	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+21:17.000	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62270(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+21:19.078	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+21:19.117	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+21:24.313	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+21:24.388	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+21:26.995	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+21:27.023	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62147(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+21:27.426	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+21:27.469	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62323(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+21:32.019	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+21:32.105	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62144(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+21:38.484	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+21:38.563	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+21:41.079	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+21:41.089	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+21:42.370	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+21:42.391	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62169(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+21:45.934	ID:1	[INFO: App       ] Received: 'No: 19 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+21:45.945	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+21:48.472	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+21:48.516	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62144(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+21:54.706	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+21:54.844	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62168(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+21:56.845	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+21:56.878	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+21:56.889	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+21:57.016	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62240(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+21:58.831	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+21:58.852	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62168(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+22:03.347	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+22:03.383	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62196(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+22:03.667	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+22:03.729	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62143(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+22:09.253	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+22:09.281	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+22:11.719	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+22:11.748	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62143(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+22:17.755	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+22:17.797	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62262(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+22:18.495	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+22:18.617	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+22:25.118	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+22:25.131	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+22:26.373	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+22:26.492	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62216(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+22:27.542	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+22:27.552	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62356(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+22:31.276	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+22:31.328	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62143(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+22:38.980	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+22:39.117	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62167(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+22:41.414	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+22:41.443	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62191(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+22:42.980	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+22:43.055	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62166(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+22:46.370	ID:1	[INFO: App       ] Received: 'No: 20 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+22:46.477	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+22:47.448	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+22:47.492	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62142(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+22:53.651	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+22:53.734	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62190(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+22:57.222	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+22:57.250	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62234(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+22:57.852	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+22:57.896	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+22:59.440	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+22:59.492	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62166(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+23:03.050	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+23:03.065	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62216(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+23:04.237	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+23:04.276	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62142(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+23:08.784	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+23:08.883	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62142(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+23:11.641	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+23:11.779	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62142(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+23:18.114	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+23:18.141	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62280(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+23:19.183	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+23:19.297	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+23:24.360	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+23:24.381	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62165(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+23:26.628	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+23:26.711	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62212(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+23:27.401	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+23:27.414	ID:1	[INFO: App       ] Received: 'CPU 13(s) / Energy 62369(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+23:31.315	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+23:31.359	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62141(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+23:39.128	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+23:39.139	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62164(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+23:42.274	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+23:42.318	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62188(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+23:43.730	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+23:43.774	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+23:46.084	ID:1	[INFO: App       ] Received: 'No: 21 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+23:46.227	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62141(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+23:48.362	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+23:48.373	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62141(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+23:52.925	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+23:53.008	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62144(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+23:57.862	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+23:57.930	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62229(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+23:58.407	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+23:58.513	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+23:58.714	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+23:58.742	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62164(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+24:03.651	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+24:03.695	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62295(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+24:04.159	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+24:04.219	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62141(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+24:08.362	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+24:08.373	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62141(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+24:10.790	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+24:10.861	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62141(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+24:17.917	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+24:17.961	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62273(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+24:19.386	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+24:19.437	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+24:25.391	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+24:25.402	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62121(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+24:26.894	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+24:26.961	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62165(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+24:27.495	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+24:27.539	ID:1	[INFO: App       ] Received: 'CPU 13(s) / Energy 62359(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+24:31.347	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+24:31.398	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62140(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+24:39.612	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+24:39.680	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62143(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+24:43.141	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+24:43.154	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62143(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+24:44.620	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+24:44.680	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+24:46.784	ID:1	[INFO: App       ] Received: 'No: 22 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+24:46.828	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62140(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+24:48.651	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+24:48.672	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62098(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+24:52.159	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+24:52.170	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62143(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+24:57.436	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+24:57.461	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62225(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+24:58.050	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+24:58.062	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62162(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+24:58.829	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+24:58.841	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+25:03.795	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+25:03.813	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62246(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+25:03.940	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+25:04.047	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62140(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+25:08.542	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+25:08.570	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62140(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+25:11.149	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+25:11.271	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62099(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+25:18.269	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+25:18.399	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62267(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1c
+25:19.948	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+25:20.156	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+25:26.360	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+25:26.371	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+25:27.301	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+25:27.336	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62371(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+25:27.830	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+25:27.843	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62163(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+25:31.237	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+25:31.297	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62139(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+25:40.487	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+25:40.508	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62142(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+25:43.196	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+25:43.208	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62142(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+25:45.339	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+25:45.399	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62161(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+25:46.731	ID:1	[INFO: App       ] Received: 'No: 23 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+25:46.742	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62139(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+25:48.370	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+25:48.383	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62160(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+25:52.894	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+25:52.922	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62182(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+25:56.839	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+25:56.875	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62242(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+25:58.282	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+25:58.375	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62160(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+25:58.461	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+25:58.482	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+26:03.519	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+26:03.547	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62139(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+26:04.183	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+26:04.250	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62241(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+26:07.784	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+26:07.852	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62139(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+26:11.954	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+26:11.974	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62139(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+26:17.769	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+26:17.828	ID:1	[INFO: App       ] Received: 'CPU 10(s) / Energy 62282(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+26:19.386	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+26:19.437	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+26:26.349	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+26:26.365	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+26:26.901	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+26:26.930	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62361(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+26:28.558	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+26:28.570	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62201(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+26:31.120	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+26:31.180	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62159(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+26:40.531	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+26:40.594	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62141(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+26:43.368	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+26:43.396	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62179(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+26:44.620	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+26:44.649	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+26:46.901	ID:1	[INFO: App       ] Received: 'No: 24 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+26:46.977	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62138(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+26:48.625	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+26:48.652	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62159(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+26:53.503	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+26:53.514	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62179(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+26:56.909	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+26:57.016	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62237(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+26:57.487	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+26:57.602	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+26:59.266	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+26:59.310	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+27:03.519	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+27:03.563	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62257(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+27:03.636	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+27:03.688	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62138(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+27:06.870	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+27:06.906	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62138(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+27:11.180	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+27:11.224	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62100(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+27:17.003	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+27:17.031	ID:1	[INFO: App       ] Received: 'CPU 10(s) / Energy 62276(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+27:19.987	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+27:20.000	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+27:25.786	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+27:25.826	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62158(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+27:26.995	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+27:27.006	ID:1	[INFO: App       ] Received: 'CPU 15(s) / Energy 62372(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+27:28.519	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+27:28.562	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62218(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+27:31.026	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+27:31.039	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+27:40.511	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+27:40.524	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62140(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+27:43.016	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+27:43.029	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62140(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+27:44.644	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+27:44.672	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+27:47.058	ID:1	[INFO: App       ] Received: 'No: 25 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+27:47.109	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62137(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+27:49.316	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+27:49.326	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62157(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+27:53.464	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+27:53.547	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62177(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+27:56.839	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+27:56.850	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62233(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+27:58.120	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+27:58.203	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62177(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+28:00.094	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+28:00.111	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+28:03.112	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+28:03.156	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62252(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+28:04.191	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+28:04.313	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62157(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+28:05.917	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+28:06.023	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62137(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+28:11.008	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+28:11.060	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62157(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+28:16.597	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+28:16.633	ID:1	[INFO: App       ] Received: 'CPU 10(s) / Energy 62270(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+28:19.612	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+28:19.648	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+28:26.716	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+28:26.779	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62176(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+28:27.300	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+28:27.336	ID:1	[INFO: App       ] Received: 'CPU 15(s) / Energy 62327(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+28:28.935	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+28:28.961	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62178(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+28:29.886	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+28:30.078	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+28:40.534	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+28:40.649	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62172(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+28:42.172	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+28:42.200	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62158(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+28:44.800	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+28:44.859	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62139(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+28:46.506	ID:1	[INFO: App       ] Received: 'No: 26 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+28:46.594	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62137(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+28:49.448	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+28:49.459	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62156(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+28:53.836	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+28:53.891	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62194(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+28:57.300	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+28:57.422	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62229(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+28:58.808	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+28:58.867	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62174(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+29:00.608	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+29:00.630	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+29:02.222	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+29:02.297	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62247(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:14
+29:04.964	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+29:05.055	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+29:06.784	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+29:06.883	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62136(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+29:11.219	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+29:11.230	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62120(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+29:16.597	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+29:16.656	ID:1	[INFO: App       ] Received: 'CPU 11(s) / Energy 62284(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+29:19.737	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+29:19.797	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62118(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+29:27.469	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+29:27.615	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62173(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+29:27.832	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+29:27.843	ID:1	[INFO: App       ] Received: 'CPU 16(s) / Energy 62373(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+29:29.667	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+29:29.734	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62211(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+29:30.315	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+29:30.477	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62155(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+29:39.659	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+29:39.734	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62170(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+29:42.149	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+29:42.193	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62157(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+29:44.722	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+29:44.789	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62138(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+29:46.862	ID:1	[INFO: App       ] Received: 'No: 27 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+29:46.922	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62136(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+29:48.941	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+29:48.992	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62154(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+29:54.589	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+29:54.727	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62191(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+29:56.651	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:23
+29:56.680	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62243(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:23
+29:58.315	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+29:58.328	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62172(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+30:01.415	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+30:01.459	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62117(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+30:02.519	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+30:02.586	ID:1	[INFO: App       ] Received: 'CPU 10(s) / Energy 62261(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:14
+30:04.269	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+30:04.352	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62154(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+30:06.292	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+30:06.531	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62136(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+30:11.844	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+30:11.873	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62154(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+30:16.997	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+30:17.008	ID:1	[INFO: App       ] Received: 'CPU 11(s) / Energy 62278(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+30:20.203	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:2
+30:20.305	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62117(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:2
+30:27.048	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+30:27.076	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62138(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+30:28.104	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+30:28.115	ID:1	[INFO: App       ] Received: 'CPU 16(s) / Energy 62331(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+30:29.659	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:a
+30:29.766	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62154(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:a
+30:30.347	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+30:30.361	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62174(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+30:40.230	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+30:40.274	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62220(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+30:41.977	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+30:42.021	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62155(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+30:45.402	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+30:45.430	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62171(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+30:47.651	ID:1	[INFO: App       ] Received: 'No: 28 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+30:47.768	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62135(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+30:48.362	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+30:48.406	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62153(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+30:55.394	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+30:55.445	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62155(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+30:57.472	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+30:57.555	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62137(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+31:01.563	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:5
+31:01.599	ID:1	[INFO: App       ] Received: 'CPU 2(s) / Energy 62117(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:5
+31:02.753	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:14
+31:02.764	ID:1	[INFO: App       ] Received: 'CPU 10(s) / Energy 62223(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:14
+31:03.948	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:13
+31:04.039	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62153(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:13
+31:05.948	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:4
+31:06.016	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62135(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:4
+31:10.993	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+31:11.029	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62153(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+31:17.623	ID:1	[INFO: App       ] Received: 'No: 30 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+31:17.680	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62290(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+31:27.055	ID:1	[INFO: App       ] Received: 'No: 30 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+31:27.066	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62170(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+31:27.909	ID:1	[INFO: App       ] Received: 'No: 30 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+31:27.920	ID:1	[INFO: App       ] Received: 'CPU 17(s) / Energy 62374(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+31:30.323	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:c
+31:30.383	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62189(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:c
+31:41.430	ID:1	[INFO: App       ] Received: 'No: 30 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+31:41.474	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62187(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+31:48.487	ID:1	[INFO: App       ] Received: 'No: 29 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:3
+31:48.555	ID:1	[INFO: App       ] Received: 'CPU 3(s) / Energy 62135(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:3
+31:58.175	ID:1	[INFO: App       ] Received: 'No: 30 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+31:58.195	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62169(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b
+32:10.282	ID:1	[INFO: App       ] Received: 'No: 30 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+32:10.334	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+32:17.139	ID:1	[INFO: App       ] Received: 'No: 31 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+32:17.203	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62285(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+32:27.118	ID:1	[INFO: App       ] Received: 'No: 31 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+32:27.154	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62136(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+32:27.839	ID:1	[INFO: App       ] Received: 'No: 31 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+32:27.867	ID:1	[INFO: App       ] Received: 'CPU 17(s) / Energy 62366(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+32:40.993	ID:1	[INFO: App       ] Received: 'No: 31 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+32:41.003	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62153(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+33:10.274	ID:1	[INFO: App       ] Received: 'No: 31 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+33:10.294	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+33:16.305	ID:1	[INFO: App       ] Received: 'No: 32 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+33:16.352	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62249(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+33:27.462	ID:1	[INFO: App       ] Received: 'No: 32 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+33:27.506	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62136(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+33:28.487	ID:1	[INFO: App       ] Received: 'No: 32 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+33:28.508	ID:1	[INFO: App       ] Received: 'CPU 17(s) / Energy 62328(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+33:41.555	ID:1	[INFO: App       ] Received: 'No: 32 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+33:41.575	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62182(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+34:09.711	ID:1	[INFO: App       ] Received: 'No: 32 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+34:09.724	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62149(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+34:17.162	ID:1	[INFO: App       ] Received: 'No: 33 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+34:17.227	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62275(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+34:27.590	ID:1	[INFO: App       ] Received: 'No: 33 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+34:27.633	ID:1	[INFO: App       ] Received: 'CPU 17(s) / Energy 62322(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+34:28.415	ID:1	[INFO: App       ] Received: 'No: 33 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+34:28.443	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62135(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+34:41.227	ID:1	[INFO: App       ] Received: 'No: 33 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+34:41.240	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62167(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+35:09.844	ID:1	[INFO: App       ] Received: 'No: 33 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+35:09.880	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62148(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+35:16.527	ID:1	[INFO: App       ] Received: 'No: 34 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+35:16.537	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62241(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+35:28.175	ID:1	[INFO: App       ] Received: 'No: 34 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+35:28.185	ID:1	[INFO: App       ] Received: 'CPU 17(s) / Energy 62316(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+35:29.083	ID:1	[INFO: App       ] Received: 'No: 34 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+35:29.115	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62134(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+35:42.078	ID:1	[INFO: App       ] Received: 'No: 34 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+35:42.122	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62165(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+36:09.797	ID:1	[INFO: App       ] Received: 'No: 34 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+36:09.834	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62147(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+36:16.269	ID:1	[INFO: App       ] Received: 'No: 35 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+36:16.313	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62266(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+36:28.807	ID:1	[INFO: App       ] Received: 'No: 35 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+36:28.851	ID:1	[INFO: App       ] Received: 'CPU 17(s) / Energy 62337(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+36:29.977	ID:1	[INFO: App       ] Received: 'No: 35 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+36:30.021	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62177(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+36:42.118	ID:1	[INFO: App       ] Received: 'No: 35 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+36:42.161	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62164(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+37:08.868	ID:1	[INFO: App       ] Received: 'No: 35 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+37:08.892	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62147(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+37:15.972	ID:1	[INFO: App       ] Received: 'No: 36 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+37:16.000	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62262(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+37:28.229	ID:1	[INFO: App       ] Received: 'No: 36 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+37:28.258	ID:1	[INFO: App       ] Received: 'CPU 18(s) / Energy 62345(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+37:29.063	ID:1	[INFO: App       ] Received: 'No: 36 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+37:29.084	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62148(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+37:41.383	ID:1	[INFO: App       ] Received: 'No: 36 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+37:41.394	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62162(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+38:08.204	ID:1	[INFO: App       ] Received: 'No: 36 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+38:08.216	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+38:15.269	ID:1	[INFO: App       ] Received: 'No: 37 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+38:15.321	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62259(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+38:27.268	ID:1	[INFO: App       ] Received: 'No: 37 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+38:27.281	ID:1	[INFO: App       ] Received: 'CPU 18(s) / Energy 62339(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+38:28.688	ID:1	[INFO: App       ] Received: 'No: 37 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+38:28.704	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62174(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+38:42.297	ID:1	[INFO: App       ] Received: 'No: 37 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+38:42.333	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62161(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+39:07.547	ID:1	[INFO: App       ] Received: 'No: 37 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+39:07.615	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62145(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+39:15.433	ID:1	[INFO: App       ] Received: 'No: 38 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+39:15.446	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62228(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+39:26.386	ID:1	[INFO: App       ] Received: 'No: 38 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+39:26.406	ID:1	[INFO: App       ] Received: 'CPU 18(s) / Energy 62334(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+39:29.032	ID:1	[INFO: App       ] Received: 'No: 38 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+39:29.068	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62173(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+39:43.289	ID:1	[INFO: App       ] Received: 'No: 38 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+39:43.302	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62160(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+40:07.250	ID:1	[INFO: App       ] Received: 'No: 38 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+40:07.315	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62119(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+40:15.191	ID:1	[INFO: App       ] Received: 'No: 39 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+40:15.211	ID:1	[INFO: App       ] Received: 'CPU 12(s) / Energy 62251(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+40:25.941	ID:1	[INFO: App       ] Received: 'No: 39 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+40:25.969	ID:1	[INFO: App       ] Received: 'CPU 18(s) / Energy 62354(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+40:28.646	ID:1	[INFO: App       ] Received: 'No: 39 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+40:28.677	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62146(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+40:44.087	ID:1	[INFO: App       ] Received: 'No: 39 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+40:44.099	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62182(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+41:07.938	ID:1	[INFO: App       ] Received: 'No: 39 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+41:07.949	ID:1	[INFO: App       ] Received: 'CPU 4(s) / Energy 62144(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+41:15.792	ID:1	[INFO: App       ] Received: 'No: 40 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+41:15.946	ID:1	[INFO: App       ] Received: 'CPU 13(s) / Energy 62261(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+41:26.222	ID:1	[INFO: App       ] Received: 'No: 40 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+41:26.265	ID:1	[INFO: App       ] Received: 'CPU 18(s) / Energy 62323(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+41:28.540	ID:1	[INFO: App       ] Received: 'No: 40 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+41:28.591	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62145(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+41:44.211	ID:1	[INFO: App       ] Received: 'No: 40 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+41:44.255	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62181(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+42:07.079	ID:1	[INFO: App       ] Received: 'No: 40 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+42:07.115	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62131(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+42:16.503	ID:1	[INFO: App       ] Received: 'No: 41 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+42:16.539	ID:1	[INFO: App       ] Received: 'CPU 13(s) / Energy 62233(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+42:25.479	ID:1	[INFO: App       ] Received: 'No: 41 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+42:25.490	ID:1	[INFO: App       ] Received: 'CPU 18(s) / Energy 62318(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+42:28.321	ID:1	[INFO: App       ] Received: 'No: 41 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+42:28.365	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62144(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+42:44.501	ID:1	[INFO: App       ] Received: 'No: 41 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+42:44.529	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62192(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+43:07.732	ID:1	[INFO: App       ] Received: 'No: 41 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+43:07.755	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62155(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+43:15.904	ID:1	[INFO: App       ] Received: 'No: 42 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+43:15.985	ID:1	[INFO: App       ] Received: 'CPU 13(s) / Energy 62255(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+43:25.253	ID:1	[INFO: App       ] Received: 'No: 42 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+43:25.281	ID:1	[INFO: App       ] Received: 'CPU 18(s) / Energy 62314(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+43:28.860	ID:1	[INFO: App       ] Received: 'No: 42 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+43:28.896	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62167(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+43:44.071	ID:1	[INFO: App       ] Received: 'No: 42 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+43:44.083	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62190(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+44:08.336	ID:1	[INFO: App       ] Received: 'No: 42 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+44:08.349	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62131(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+44:15.394	ID:1	[INFO: App       ] Received: 'No: 43 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+44:15.422	ID:1	[INFO: App       ] Received: 'CPU 13(s) / Energy 62228(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+44:26.237	ID:1	[INFO: App       ] Received: 'No: 43 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+44:26.265	ID:1	[INFO: App       ] Received: 'CPU 18(s) / Energy 62309(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+44:29.469	ID:1	[INFO: App       ] Received: 'No: 43 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+44:29.480	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62143(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+44:44.814	ID:1	[INFO: App       ] Received: 'No: 43 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+44:44.869	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62189(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+45:09.016	ID:1	[INFO: App       ] Received: 'No: 43 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+45:09.052	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62153(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+45:15.420	ID:1	[INFO: App       ] Received: 'No: 44 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+45:15.492	ID:1	[INFO: App       ] Received: 'CPU 13(s) / Energy 62226(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+45:27.057	ID:1	[INFO: App       ] Received: 'No: 44 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+45:27.068	ID:1	[INFO: App       ] Received: 'CPU 18(s) / Energy 62305(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+45:28.833	ID:1	[INFO: App       ] Received: 'No: 44 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+45:28.873	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62165(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+45:45.258	ID:1	[INFO: App       ] Received: 'No: 44 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+45:45.269	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62187(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+46:08.086	ID:1	[INFO: App       ] Received: 'No: 44 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+46:08.107	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62152(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+46:15.995	ID:1	[INFO: App       ] Received: 'No: 45 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+46:16.039	ID:1	[INFO: App       ] Received: 'CPU 13(s) / Energy 62246(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+46:26.401	ID:1	[INFO: App       ] Received: 'No: 45 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+46:26.430	ID:1	[INFO: App       ] Received: 'CPU 18(s) / Energy 62301(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+46:29.282	ID:1	[INFO: App       ] Received: 'No: 45 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+46:29.295	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62154(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+46:45.883	ID:1	[INFO: App       ] Received: 'No: 45 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+46:45.894	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62186(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+47:08.094	ID:1	[INFO: App       ] Received: 'No: 45 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+47:08.111	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62130(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+47:16.615	ID:1	[INFO: App       ] Received: 'No: 46 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+47:16.633	ID:1	[INFO: App       ] Received: 'CPU 13(s) / Energy 62221(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+47:26.300	ID:1	[INFO: App       ] Received: 'No: 46 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+47:26.320	ID:1	[INFO: App       ] Received: 'CPU 19(s) / Energy 62309(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+47:30.005	ID:1	[INFO: App       ] Received: 'No: 46 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+47:30.029	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62175(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+47:46.750	ID:1	[INFO: App       ] Received: 'No: 46 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+47:46.779	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62184(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+48:09.040	ID:1	[INFO: App       ] Received: 'No: 46 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+48:09.052	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62151(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+48:16.089	ID:1	[INFO: App       ] Received: 'No: 47 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+48:16.102	ID:1	[INFO: App       ] Received: 'CPU 13(s) / Energy 62240(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+48:25.659	ID:1	[INFO: App       ] Received: 'No: 47 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+48:25.695	ID:1	[INFO: App       ] Received: 'CPU 19(s) / Energy 62305(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+48:29.126	ID:1	[INFO: App       ] Received: 'No: 47 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+48:29.263	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62152(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+48:46.141	ID:1	[INFO: App       ] Received: 'No: 47 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+48:46.152	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62183(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+49:08.188	ID:1	[INFO: App       ] Received: 'No: 47 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+49:08.236	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62129(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+49:17.011	ID:1	[INFO: App       ] Received: 'No: 48 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+49:17.022	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62249(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+49:25.448	ID:1	[INFO: App       ] Received: 'No: 48 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+49:25.484	ID:1	[INFO: App       ] Received: 'CPU 19(s) / Energy 62301(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+49:29.446	ID:1	[INFO: App       ] Received: 'No: 48 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+49:29.482	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62151(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+49:45.383	ID:1	[INFO: App       ] Received: 'No: 48 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+49:45.427	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62181(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+50:09.016	ID:1	[INFO: App       ] Received: 'No: 48 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+50:09.052	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62150(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+50:17.714	ID:1	[INFO: App       ] Received: 'No: 49 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+50:17.725	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62226(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+50:26.378	ID:1	[INFO: App       ] Received: 'No: 49 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+50:26.388	ID:1	[INFO: App       ] Received: 'CPU 19(s) / Energy 62297(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+50:29.997	ID:1	[INFO: App       ] Received: 'No: 49 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+50:30.021	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62171(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+50:45.446	ID:1	[INFO: App       ] Received: 'No: 49 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+50:45.458	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62191(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+51:09.196	ID:1	[INFO: App       ] Received: 'No: 49 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+51:09.240	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62129(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+51:18.417	ID:1	[INFO: App       ] Received: 'No: 50 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+51:18.461	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62223(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+51:26.495	ID:1	[INFO: App       ] Received: 'No: 50 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+51:26.523	ID:1	[INFO: App       ] Received: 'CPU 19(s) / Energy 62294(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+51:30.813	ID:1	[INFO: App       ] Received: 'No: 50 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+51:30.826	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62150(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+51:45.789	ID:1	[INFO: App       ] Received: 'No: 50 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+51:45.833	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62169(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+52:10.063	ID:1	[INFO: App       ] Received: 'No: 50 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+52:10.154	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62128(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+52:18.800	ID:1	[INFO: App       ] Received: 'No: 51 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+52:18.860	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62241(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+52:26.097	ID:1	[INFO: App       ] Received: 'No: 51 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+52:26.108	ID:1	[INFO: App       ] Received: 'CPU 19(s) / Energy 62290(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+52:31.274	ID:1	[INFO: App       ] Received: 'No: 51 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+52:31.396	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62149(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+52:45.430	ID:1	[INFO: App       ] Received: 'No: 51 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+52:45.466	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62188(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+53:10.569	ID:1	[INFO: App       ] Received: 'No: 51 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+53:10.638	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62148(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+53:18.981	ID:1	[INFO: App       ] Received: 'No: 52 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+53:19.008	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62239(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+53:26.176	ID:1	[INFO: App       ] Received: 'No: 52 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+53:26.186	ID:1	[INFO: App       ] Received: 'CPU 19(s) / Energy 62287(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+53:31.462	ID:1	[INFO: App       ] Received: 'No: 52 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+53:31.490	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62177(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+53:45.219	ID:1	[INFO: App       ] Received: 'No: 52 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+53:45.263	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62187(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+54:10.422	ID:1	[INFO: App       ] Received: 'No: 52 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+54:10.433	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62128(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+54:19.347	ID:1	[INFO: App       ] Received: 'No: 53 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+54:19.360	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62217(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+54:26.792	ID:1	[INFO: App       ] Received: 'No: 53 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+54:26.802	ID:1	[INFO: App       ] Received: 'CPU 19(s) / Energy 62284(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+54:30.571	ID:1	[INFO: App       ] Received: 'No: 53 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+54:30.584	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62176(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+54:46.211	ID:1	[INFO: App       ] Received: 'No: 53 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+54:46.224	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62185(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+55:10.500	ID:1	[INFO: App       ] Received: 'No: 53 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+55:10.511	ID:1	[INFO: App       ] Received: 'CPU 5(s) / Energy 62128(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+55:19.138	ID:1	[INFO: App       ] Received: 'No: 54 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+55:19.172	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62234(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+55:26.339	ID:1	[INFO: App       ] Received: 'No: 54 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+55:26.383	ID:1	[INFO: App       ] Received: 'CPU 19(s) / Energy 62281(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+55:30.712	ID:1	[INFO: App       ] Received: 'No: 54 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+55:30.722	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62174(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+55:45.586	ID:1	[INFO: App       ] Received: 'No: 54 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+55:45.607	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62184(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+56:10.102	ID:1	[INFO: App       ] Received: 'No: 54 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+56:10.185	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62137(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+56:18.652	ID:1	[INFO: App       ] Received: 'No: 55 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+56:18.711	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62214(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+56:25.886	ID:1	[INFO: App       ] Received: 'No: 55 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+56:25.922	ID:1	[INFO: App       ] Received: 'CPU 19(s) / Energy 62278(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+56:30.938	ID:1	[INFO: App       ] Received: 'No: 55 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+56:30.951	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62192(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+56:46.399	ID:1	[INFO: App       ] Received: 'No: 55 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+56:46.435	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62183(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+57:09.454	ID:1	[INFO: App       ] Received: 'No: 55 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+57:09.498	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62137(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+57:19.534	ID:1	[INFO: App       ] Received: 'No: 56 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+57:19.555	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62212(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+57:26.074	ID:1	[INFO: App       ] Received: 'No: 56 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+57:26.094	ID:1	[INFO: App       ] Received: 'CPU 20(s) / Energy 62285(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+57:30.141	ID:1	[INFO: App       ] Received: 'No: 56 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+57:30.170	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62172(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+57:47.157	ID:1	[INFO: App       ] Received: 'No: 56 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+57:47.167	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62182(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1d
+58:09.540	ID:1	[INFO: App       ] Received: 'No: 56 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+58:09.550	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62136(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+58:18.901	ID:1	[INFO: App       ] Received: 'No: 57 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+58:18.961	ID:1	[INFO: App       ] Received: 'CPU 14(s) / Energy 62228(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+58:26.971	ID:1	[INFO: App       ] Received: 'No: 57 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+58:27.015	ID:1	[INFO: App       ] Received: 'CPU 20(s) / Energy 62282(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+58:29.938	ID:1	[INFO: App       ] Received: 'No: 57 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+58:30.068	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62171(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+58:44.511	ID:1	[INFO: App       ] Received: 'No: 57 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+58:44.570	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62163(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+58:46.883	ID:1	[INFO: App       ] Received: 'No: 57 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+58:46.894	ID:1	[INFO: App       ] Received: 'CPU 10(s) / Energy 62172(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1d
+58:50.800	ID:1	[INFO: App       ] Received: 'No: 57 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+58:50.852	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62146(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+58:51.191	ID:1	[INFO: App       ] Received: 'No: 57 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+58:51.211	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62180(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+59:09.966	ID:1	[INFO: App       ] Received: 'No: 57 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:d
+59:10.013	ID:1	[INFO: App       ] Received: 'CPU 6(s) / Energy 62154(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:d
+59:18.316	ID:1	[INFO: App       ] Received: 'No: 58 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1c
+59:18.375	ID:1	[INFO: App       ] Received: 'CPU 15(s) / Energy 62218(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1c
+59:26.590	ID:1	[INFO: App       ] Received: 'No: 58 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:24
+59:26.600	ID:1	[INFO: App       ] Received: 'CPU 20(s) / Energy 62279(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:24
+59:30.865	ID:1	[INFO: App       ] Received: 'No: 58 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:15
+59:30.927	ID:1	[INFO: App       ] Received: 'CPU 8(s) / Energy 62171(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:15
+59:39.767	ID:1	[INFO: App       ] Received: 'No: 57 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:22
+59:39.867	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62162(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:22
+59:45.401	ID:1	[INFO: App       ] Received: 'No: 58 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:12
+59:45.492	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62162(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:12
+59:46.493	ID:1	[INFO: App       ] Received: 'No: 58 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1d
+59:46.503	ID:1	[INFO: App       ] Received: 'CPU 10(s) / Energy 62189(uC/s)' Packet length: 30 | from: fd00::c30c:0:0:1d
+59:51.769	ID:1	[INFO: App       ] Received: 'No: 58 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1b
+59:51.844	ID:1	[INFO: App       ] Received: 'CPU 7(s) / Energy 62145(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1b
+59:52.060	ID:1	[INFO: App       ] Received: 'No: 58 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:1a
+59:52.102	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62162(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:1a
+59:59.761	ID:1	[INFO: App       ] Received: 'No: 57 | Temperature: 25 [ÂºC] | Pressure: 100000 [Pa]' Packet length: 54 | from: fd00::c30c:0:0:b
+59:59.828	ID:1	[INFO: App       ] Received: 'CPU 9(s) / Energy 62163(uC/s)' Packet length: 29 | from: fd00::c30c:0:0:b

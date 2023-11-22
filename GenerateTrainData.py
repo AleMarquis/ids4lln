@@ -5,13 +5,15 @@ from types import NoneType
 import matplotlib.pyplot as plt
 import os.path
 import csv
+from os import listdir
+from os.path import isfile, join
 
 f = open('treino.csv', 'w')
 
 writer = csv.writer(f)
 
-windowSize = 100
-windowSpeed = 10
+windowSize = 30
+windowSpeed = 5
 
 def parse_entry(entry):
     match = re.search(r'\[(.*?)\]', entry)
@@ -84,24 +86,28 @@ def generate_data(entries, filename):
             data[item+'_stdev'] = stdev(data[item])
     
     #get_mean_datetime
-    data['mean_time'] = data['timestamps'][0] + ((data['timestamps'][-1] - data['timestamps'][0])/2)
+    meanTime = data['timestamps'][0] + ((data['timestamps'][-1] - data['timestamps'][0])/2)
 
-    if (60*data['mean_time'].hour + data['mean_time'].minute > 30) and ("NodesNormal" not in filename): 
+    atkTime = re.findall(r'\d+', filename)[-1]
+
+    if (60*meanTime.hour + meanTime.minute > int(atkTime)) and ("NodesNormal" not in filename): 
         data['classification'] = 1
     else: 
         data['classification'] = 0
+    
+    data['mean_time'] = meanTime.timestamp()
 
     data['number_of_clients'] = len(set(data['sender_id']))
 
     return data
             
 def read_file(filename):
-    with open(os.getcwd() + '/' + filename, 'r') as file:
+    with open(os.getcwd() + '/trainset/' + filename, 'r') as file:
         lines = file.readlines()
         lines = [line.strip() for line in lines]  
     return lines
 
-wantedValues = ["cpu_time_mean", "cpu_time_stdev", 
+wantedValues = ["mean_time", "cpu_time_mean", "cpu_time_stdev", 
                 "packet_length_mean", "packet_length_stdev", 
                 "energy_mean", "energy_stdev", 
                 "req_num_mean", "req_num_stdev", 
@@ -113,13 +119,7 @@ wantedValues = ["cpu_time_mean", "cpu_time_stdev",
 
 # writer.writerow(wantedValues)
 
-filelist = ['1h-64NodesFloodingLarge30-10.txt',
-            '1h-64NodesFloodingNormal30-10.txt',
-            '1h-64NodesLenghtAttack30-10.txt',
-            '1h-64NodesNormal10.txt',
-            '1h-64NodesBlackhole30-10.txt',
-            '1h-64NodesBlackhole30-5.txt' 
-]
+filelist = [f for f in listdir(os.getcwd()+'/trainset') if isfile(join(os.getcwd()+'/trainset', f))]
 
 for file in filelist:
     lines = read_file(file)
@@ -131,18 +131,6 @@ for file in filelist:
         for value in wantedValues:
             dataCsv.append(data[i][value])
         writer.writerow(dataCsv)
-
-# filename = '1h-64NodesBlackhole30-10.txt'
-
-# lines = read_file(filename)
-# data = []
-# for i in range (int(len(lines)/windowSpeed)-windowSize):
-#     lineTemp = lines[windowSpeed*i:(windowSpeed*i)+windowSize]
-#     data.append(generate_data(lineTemp, filename))
-#     dataCsv = []
-#     for value in wantedValues:
-#         dataCsv.append(data[i][value])
-#     writer.writerow(dataCsv)
 
 data
 

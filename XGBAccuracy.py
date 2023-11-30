@@ -16,11 +16,11 @@ model = XGBClassifier()
 model.fit(X_train, y_train)
 
 dataset2 = loadtxt('teste.csv', delimiter=",")
-X = dataset2[:,1:15]
-Y = dataset2[:,16]
+X_test = dataset2[:,1:15]
+y_test = dataset2[:,16]
 
-y_pred = model.predict(X)
+y_pred = model.predict(X_test)
 predictions = [round(value) for value in y_pred]
 
-accuracy = accuracy_score(Y, predictions)
+accuracy = accuracy_score(y_test, predictions)
 print("Accuracy: %.2f%%" % (accuracy * 100.0))

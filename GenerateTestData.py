@@ -10,7 +10,7 @@ f = open('teste.csv', 'w')
 
 writer = csv.writer(f)
 
-windowSize = 30
+windowSize = 100
 windowSpeed = 5
 
 def parse_entry(entry):
@@ -19,7 +19,6 @@ def parse_entry(entry):
     if match:
         if entry[4] == ':':
             timestamp = datetime.strptime(entry[:9], '%H:%M:%S.%f')
-            print(timestamp)
         else:
             timestamp = datetime.strptime(entry[:9], '%M:%S.%f')
         id_num = int(re.search(r'ID:(\d+)', entry).group(1))
@@ -108,16 +107,21 @@ def read_file(filename):
 wantedValues = ["mean_time", "cpu_time_mean", "cpu_time_stdev", 
                 "packet_length_mean", "packet_length_stdev", 
                 "energy_mean", "energy_stdev", 
-                "req_num_mean", "req_num_stdev", 
+                "req_num_stdev", 
                 "freshness_mean", "freshness_stdev", 
                 "temp_val_mean", "temp_val_stdev", 
                 "pressure_val_mean", "pressure_val_stdev",
                 "number_of_clients", "classification"]
 
+# wantedValues = ["mean_time",  
+#                 "packet_length_mean", "packet_length_stdev", 
+#                 "energy_mean", "energy_stdev",  
+#                 "freshness_mean", "freshness_stdev", 
+#                 "number_of_clients", "classification"]
 
 # writer.writerow(wantedValues)
 
-filename = '1h-64NodesFloodingLarge-10-30.txt'
+filename = '1h-64NodesGreyhole4-70-5.txt'
 
 lines = read_file(filename)
 data = []

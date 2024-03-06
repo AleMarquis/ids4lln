@@ -6,14 +6,9 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 from sklearn.utils import class_weight
 from imblearn.over_sampling import SMOTE
 
-# threshold = 0.1
-
 dataset = loadtxt('treino.csv', delimiter=",")
 X = dataset[:,1:14]
 Y = dataset[:,15]
-
-# sm = SMOTE(random_state=42)
-# X, Y = sm.fit_resample(X, Y)
 
 seed = 123456
 test_size = 0.40
@@ -29,15 +24,9 @@ model = XGBClassifier(scale_pos_weight=5)
 
 model.fit(X_train, y_train, sample_weight=classes_weights)
 
-# dataset2 = loadtxt('teste.csv', delimiter=",")
-# X_test = dataset2[:,1:14]
-# y_test = dataset2[:,15]
-
-# predictions = []
-# y_pred = model.predict_proba(X_test)
-# for value in y_pred:
-#     if value[0] > threshold: predictions.append(0)
-#     else: predictions.append(1)
+dataset2 = loadtxt('teste.csv', delimiter=",")
+X_test = dataset2[:,1:14]
+y_test = dataset2[:,15]
 
 y_pred = model.predict(X_test)
 predictions = [round(value) for value in y_pred]

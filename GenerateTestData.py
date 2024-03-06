@@ -121,7 +121,7 @@ wantedValues = ["mean_time", "cpu_time_mean", "cpu_time_stdev",
 
 # writer.writerow(wantedValues)
 
-filename = '1h-64NodesGreyhole4-70-5.txt'
+filename = '1h-64NodesFlooding24-5.txt'
 
 lines = read_file(filename)
 data = []

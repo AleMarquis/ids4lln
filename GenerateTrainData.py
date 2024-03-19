@@ -13,7 +13,7 @@ f = open('treino.csv', 'w')
 writer = csv.writer(f)
 
 windowSize = 100
-windowSpeed = 5
+windowSpeed = 1
 
 def parse_entry(entry):
     match = re.search(r'\[(.*?)\]', entry)
@@ -121,7 +121,7 @@ wantedValues = ["mean_time", "cpu_time_mean", "cpu_time_stdev",
 #                 "freshness_mean", "freshness_stdev", 
 #                 "number_of_clients", "classification"]
 
-# writer.writerow(wantedValues)
+writer.writerow(wantedValues)
 
 filelist = [f for f in listdir(os.getcwd()+'/trainset') if isfile(join(os.getcwd()+'/trainset', f))]
 
